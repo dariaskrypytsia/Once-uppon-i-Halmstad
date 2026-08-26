@@ -1,0 +1,6 @@
+mkdir - skapar en ny map
+cd - navigerar mellan mapp
+touch - skapa en fil
+pwd - visa var i filsystemet du är
+cat - visar innehållet i en textfil
+ls – visar innehållet i aktuell mapp
