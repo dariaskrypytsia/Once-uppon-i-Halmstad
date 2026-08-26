@@ -13,5 +13,5 @@
 * git pull - hämtar andringar från GitHub
 ## Repository, commit, versionhistorik
 * ett repository är en mapp som Git håller koll på och sparar ändringar i
-* en commit äe en sparad version av andringarna
+* en commit är en sparad version av andringarna
 * versionhistorik är en lista över alla commits som visasr hur projektet har förendrats 
